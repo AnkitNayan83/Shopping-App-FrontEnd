@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const BASE_URL = process.env.APP_URL || "http://localhost:8080/api/";
+const BASE_URL =
+  "https://zepp-shopping.herokuapp.com/api/" || "http://localhost:8080/api/";
 
 const TOKEN =
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOWFlZDEzNjY5YzA5OWI3YTY2YTc0YiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1NDY5MjM3NSwiZXhwIjoxNjU0OTUxNTc1fQ.zMTAT2W3SjmKrz8JsJV47MBtuI_xADW8hurXbvII_gI";
