@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Backend part of this project](https://github.com/AnkitNayan83/Shopping-App-BackEnd)
 
 ## Available Scripts
 
